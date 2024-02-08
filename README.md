@@ -1,6 +1,5 @@
 # Website Template
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
 The website template was borrowed from [Michaël Gharbi](http://mgharbi.com/) and [Keunhong Park](https://github.com/nerfies/nerfies.github.io).
 
 
