@@ -1,3 +1,5 @@
+The site is live at [MegaSurf](https://megasurfnsr.github.io/megasurf/).
+
 # Website Template
 
 The website template was borrowed from [Michaël Gharbi](http://mgharbi.com/) and [Keunhong Park](https://github.com/nerfies/nerfies.github.io).
